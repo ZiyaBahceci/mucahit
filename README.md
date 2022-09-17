@@ -1,2 +1,2 @@
-# mucahit
-Our game "Mucahit" for Magara Jam 5.
+# magarajam-antagonist
+our game in magara jam 5.
