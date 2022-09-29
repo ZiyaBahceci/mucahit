@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ElectronicNodes.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\wkspaces\HitAndBoom4.26\Intermediate\Build\Win64\HitAndBoomEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\wkspaces\HitAndBoom4.26\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp.obj"
+"C:\wkspaces\HitAndBoom4.26\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.gen.cpp.obj"
+"C:\wkspaces\HitAndBoom4.26\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Default.rc2.res"
+/OUT:"C:\wkspaces\HitAndBoom4.26\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\UE4Editor-ElectronicNodes.lib"
+/INCLUDE:IMPLEMENT_MODULE_ElectronicNodes
